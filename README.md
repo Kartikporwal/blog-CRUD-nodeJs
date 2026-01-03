@@ -22,17 +22,11 @@ A full-stack web application that allows users to register, log in, and interact
 
 Frontend
 
-HTML
-
-CSS
-
-JavaScript
+HTML, CSS, JavaScript
 
 Backend
 
-Node.js
-
-Express.js
+Node.js, Express.js
 
 Database
 
@@ -40,9 +34,7 @@ MongoDB
 
 Authentication
 
-JWT / Sessions
-
-bcrypt for password hashing
+JWT / Sessions, bcrypt for password hashing
 
 🚧 Future Enhancements
 
