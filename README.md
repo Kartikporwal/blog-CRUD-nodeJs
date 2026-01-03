@@ -1,10 +1,10 @@
 🚀 User Authentication & Post Management App
+
 A full-stack web application that allows users to register, log in, and interact with posts in a secure and user-friendly environment. The application focuses on core social platform features with proper authentication and authorization.
 
-✨ Features
+✨ Features:-
 
 👤 User Registration & Login
-
 🔐 Secure Authentication (Session / JWT based)
 🚪 Logout Functionality
 📝 Create New Posts
