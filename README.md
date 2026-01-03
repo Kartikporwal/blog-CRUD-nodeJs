@@ -4,6 +4,7 @@ A full-stack web application that allows users to register, log in, and interact
 ✨ Features
 
 👤 User Registration & Login
+
 🔐 Secure Authentication (Session / JWT based)
 🚪 Logout Functionality
 📝 Create New Posts
