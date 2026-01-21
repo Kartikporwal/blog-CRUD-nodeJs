@@ -1,48 +1,56 @@
-🚀 User Authentication & Post Management App
 
-A full-stack web application that allows users to register, log in, and interact with posts in a secure and user-friendly environment. The application focuses on core social platform features with proper authentication and authorization.
+👤 User Authentication & Post Management App
 
-**✨ Features**
+A full-stack web application that enables users to register, log in, and interact with posts in a secure and user-friendly environment.
+The project focuses on authentication, authorization, and core social platform features.
 
-👤 User Registration & Login
 
-🔐 Secure Authentication (Session / JWT based)
+---
 
-🚪 Logout Functionality
+✨ Features
 
-📝 Create New Posts
+👤 User registration and login
 
-✏️ Edit Your Own Posts
+🔐 Secure authentication using JWT / Express Sessions
 
-❤️ Like & Unlike Posts
+🚪 Logout functionality
 
-🛡️ Authorization (Users can modify only their own posts)
+📝 Create new posts
 
-**🛠️ Tech Stack**
+✏️ Edit and delete own posts
 
-Backend
+❤️ Like and unlike posts
 
-Node.js, Express.js
+🛡️ Authorization to ensure users can modify only their own content
 
-Template Engine
 
-EJS (Embedded JavaScript Templates)
 
-Database
+---
 
-MongoDB
+🛠️ Tech Stack
 
-Authentication & Security
+Backend: Node.js, Express.js
 
-JWT / Express Sessions, bcrypt (Password Hashing)
+Template Engine: EJS
 
-**🚧 Future Enhancements**
+Database: MongoDB
 
-🖼️ Profile Image Upload
+Authentication & Security: JWT / Express Sessions, bcrypt
 
-💬 Comment System
+
+---
+
+🚧 Future Enhancements
+
+🖼️ Profile image upload
+
+💬 Comment system
 
 🔔 Notifications
 
-📱 Responsive UI Improvements
+📱 Improved responsive UI
+
+
+
+---
 
